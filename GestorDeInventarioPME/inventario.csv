@@ -1,0 +1,10 @@
+ID,Nombre,Cantidad,Precio,StockMinimo,Proveedor
+001,Laptop,30,1200.0,5,Proveedor1
+002,Teclado,22,25.5,10,Proveedor2
+003,Mouse,26,10.75,8,Proveedor3
+004,Computador Gaming,5,4200.0,10,Host Gamig House
+005,Audifonos,14,100.0,5,H.G.H
+006,MousePad,8,400.0,4,Eneba
+007,Limpia vidrios,20,30.0,5,Home clean
+009,Escritorio,20,1200.0,5,Machine
+010,Mouse Inalambrico,40,470.0,10,H.G.H
