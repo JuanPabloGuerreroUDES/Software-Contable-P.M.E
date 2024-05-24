@@ -1,2 +1,0 @@
-Empleado,empleado123
-Administrador,admin123
